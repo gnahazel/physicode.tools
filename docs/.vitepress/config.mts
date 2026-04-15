@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Physicode - Tools",
   description: "Deine digitalen Tools für den Unterricht",
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
